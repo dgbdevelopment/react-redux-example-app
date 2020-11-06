@@ -1,0 +1,69 @@
+{
+  "productos": [
+    {
+      "nombre": "Rabano",
+      "precio": "15",
+      "id": 6
+    },
+    {
+      "nombre": "Chirimoya",
+      "precio": "11.50",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "nombre": "Alcauciles",
+      "precio": "9.75"
+    },
+    {
+      "nombre": "Pepino",
+      "precio": "4.75",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "nombre": "Zanahorias",
+      "precio": "11"
+    },
+    {
+      "nombre": "Aguacate",
+      "precio": "12.50",
+      "id": 14
+    },
+    {
+      "nombre": "Manzanas",
+      "precio": "3.25",
+      "id": 16
+    },
+    {
+      "nombre": "Calabaza",
+      "precio": "28",
+      "id": 17
+    },
+    {
+      "nombre": "Sandía",
+      "precio": "19",
+      "id": 18
+    },
+    {
+      "nombre": "Cebada",
+      "precio": "2.5",
+      "id": 19
+    },
+    {
+      "nombre": "Yogurt",
+      "precio": "1.50",
+      "id": 20
+    },
+    {
+      "nombre": "Acelgas",
+      "precio": "0.75",
+      "id": 21
+    },
+    {
+      "nombre": "Naranjas",
+      "precio": "1.25",
+      "id": 22
+    }
+  ]
+}
